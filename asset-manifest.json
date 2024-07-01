@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/driving-school-react/static/css/main.3b4070f3.css",
+    "main.js": "/driving-school-react/static/js/main.e73d65bc.js",
+    "static/js/453.ed3810f9.chunk.js": "/driving-school-react/static/js/453.ed3810f9.chunk.js",
+    "static/media/carousel-1.jpg": "/driving-school-react/static/media/carousel-1.dd4b39b648a49a4aac4d.jpg",
+    "index.html": "/driving-school-react/index.html",
+    "main.3b4070f3.css.map": "/driving-school-react/static/css/main.3b4070f3.css.map",
+    "main.e73d65bc.js.map": "/driving-school-react/static/js/main.e73d65bc.js.map",
+    "453.ed3810f9.chunk.js.map": "/driving-school-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b4070f3.css",
+    "static/js/main.e73d65bc.js"
+  ]
+}
